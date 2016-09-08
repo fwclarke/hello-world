@@ -1,2 +1,4 @@
 # hello-world
-Initial repository
+
+Initial repository set up on 8 September 2016
+
